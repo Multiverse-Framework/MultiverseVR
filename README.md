@@ -11,3 +11,7 @@
 [Meta XR Plugin v67](https://developer.oculus.com/downloads/package/unreal-engine-5-integration/67.0)
 
 [Multiverse-Connector](https://github.com/Multiverse-Framework/Multiverse-UnrealEngine-Connector)
+
+## Pre-computed Content
+
+[Content](https://nc.uni-bremen.de/index.php/s/2KxiRrziYzAp8sb)
