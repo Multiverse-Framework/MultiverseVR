@@ -21,14 +21,6 @@
 			]
 		},
 		{
-			"Name": "OculusPlatform",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
-		},
-		{
 			"Name": "USDImporter",
 			"Enabled": true
 		},
